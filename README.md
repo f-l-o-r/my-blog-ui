@@ -1,2 +1,2 @@
 # my-blog-ui
-Linnk: https://flor-my-blog.netlify.app/articles-list
+URL: https://flor-my-blog.netlify.app
